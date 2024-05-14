@@ -1,0 +1,28 @@
+[
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"dbarla17/covid19-data-analysis/main/raw/ecdc/cases_deaths/cases_deaths.csv",
+        "sinkFileName":"ecdc/cases_deaths/cases_deaths.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"dbarla17/covid19-data-analysis/main/raw/ecdc/country_response/country_response.csv",
+        "sinkFileName":"ecdc/country_response/country_response.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"dbarla17/covid19-data-analysis/main/raw/ecdc/hospital_admissions/hospital_admissions.csv",
+        "sinkFileName":"ecdc/hospital_admissions/hospital_admissions.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"dbarla17/covid19-data-analysis/main/raw/ecdc/testing/testing.csv",
+        "sinkFileName":"ecdc/testing/testing.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"dbarla17/covid19-data-analysis/main/raw/population/population_by_age_tsv",
+        "sinkFileName":"population/population_by_age_tsv"
+    },
+
+]

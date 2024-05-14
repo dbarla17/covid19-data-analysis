@@ -1,0 +1,22 @@
+[
+    {
+        "sourcefilepath":"ecdc/cases_deaths",
+        "schema":"covid_reporting",
+        "table":"cases_and_deaths"
+    },
+    {
+        "sourcefilepath":"ecdc/hospital_admissions_weekly",
+        "schema":"covid_reporting",
+        "table":"hospital_admissions_weekly"
+    },
+    {
+        "sourcefilepath":"ecdc/hosptal_admissions_Daily",
+        "schema":"covid_reporting",
+        "table":"hospital_admissions_daily"
+    },
+    {
+        "sourcefilepath":"ecdc/Testing",
+        "schema":"covid_reporting",
+        "table":"testing"
+    }
+]
